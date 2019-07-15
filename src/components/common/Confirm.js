@@ -43,5 +43,4 @@ const styles = {
     }
 };
 
-export default Confirm;
-
+export { Confirm };
